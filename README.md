@@ -6,7 +6,7 @@
 
 ### 1. 간략 소개
 * 1993년 생 남자
-* 한양대 에리카 전자시스템 공학  졸업
+* 한양대 에리카 전자시스템 공학 학부 졸업
 * 개발 언어: C, C++, C#, python
 * 개발 환경: Embedded, Ubuntu, Windows
 * 그 외: KiCad, Altium, ROS ... 
