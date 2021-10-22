@@ -1,7 +1,8 @@
 # 개발자 김재동 랜딩 페이지
 #### Dev. Jade Kim Landing Page
+##### [>> Git Blog Link <<](https://JadeKim93.github.io) 공사중
 ---------------------------------------
-[Git Blog Link <<](https://JadeKim93.github.io) 공사중
+
 
 ### 1. 간략 소개
 * 1993년 생 남자
