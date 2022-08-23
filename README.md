@@ -1,6 +1,5 @@
 # 개발자 김재동 랜딩 페이지
 #### Dev. Jade Kim Landing Page
-##### [>> Git Blog Link <<](https://JadeKim93.github.io) 공사중
 ---------------------------------------
 
 
